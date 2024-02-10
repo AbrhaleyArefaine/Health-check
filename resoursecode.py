@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 # Import the required modules
 import psutil # for system statistics
 import socket # for network connectivity
